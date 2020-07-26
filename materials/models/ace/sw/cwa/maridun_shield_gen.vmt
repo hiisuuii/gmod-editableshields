@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ace/sw/cwa/maridun_shield_gen"
+	"$bumpmap" "models/ace/sw/cwa/maridun_shield_gen_normal"
+	"$surfaceprop" "Metal"
+	"$nodecal" 1
+}

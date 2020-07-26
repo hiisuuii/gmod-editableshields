@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "cable/physbeamred"
+	"$additive"		1
+	"$MinLight"		1
+	"$MaxLight"		1
+	"$nocull"			1
+}
